@@ -28,9 +28,9 @@ Detects 7 skin disease types:
   
   - Vascular Lesions
 
--Custom CNN model from scratch
+- Custom CNN model from scratch
 
--Ensemble of VGG16, InceptionV3 & DenseNet models for better accuracy
+- Ensemble of VGG16, InceptionV3 & DenseNet models for better accuracy
 
 ## 📚 Dataset
 
