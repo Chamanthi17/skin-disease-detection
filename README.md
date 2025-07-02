@@ -1,6 +1,10 @@
 ## 🩺 Skin Disease Detection Using Machine Learning
 
-This project helps detect 7 types of skin diseases using Convolutional Neural Networks (CNN) and an ensemble of powerful pre-trained models like VGG16, InceptionV3, and DenseNet.
+This project identifies 7 types of skin diseases using advanced Convolutional Neural Networks (CNN) combined with an ensemble model that integrates the strengths of VGG16, InceptionV3, and DenseNet architectures to improve detection accuracy. The system processes dermatoscopic images to recognize patterns and classify diseases effectively.
+
+To make the model accessible, a simple Tkinter-based GUI is implemented allowing users to upload skin images easily and receive diagnostic predictions.
+
+The dataset used is the HAM10000 dataset from Harvard Dataverse, containing over 10,000 labeled images of skin lesions.
 
 ## 🌟 Overview
 
@@ -57,6 +61,8 @@ Contains 10,015 labeled dermatoscopic skin images.
   🤝 Combine pre-trained models with ensemble weighted average
 
   📊 Evaluate models using accuracy, precision, recall & F1-score
+
+  🖼️ Developed a simple Tkinter GUI for users to upload skin images and get predictions
 
 ## ⚙️ Usage
 
