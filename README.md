@@ -1,4 +1,4 @@
-## 🩺 Skin Disease Detection Using Machine Learning
+# 🩺 Skin Disease Detection Using Machine Learning
 
 This project identifies 7 types of skin diseases using advanced Convolutional Neural Networks (CNN) combined with an ensemble model that integrates the strengths of VGG16, InceptionV3, and DenseNet architectures to improve detection accuracy. The system processes dermatoscopic images to recognize patterns and classify diseases effectively.
 
